@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=netstart)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=netstart)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netstart&layout=compact&hide=html" alt="netstart" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=netstart&show_icons=true" alt="netstart" /></p>

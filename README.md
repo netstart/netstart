@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=netstart)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netstart&layout=compact&hide=html" alt="netstart" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=netstart&show_icons=true" alt="netstart" /></p>

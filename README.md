@@ -1,11 +1,7 @@
 ### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=netstart)
 
 - 🔭 I’m currently working on problem resolutions using software to make world better 😄
-- 🎓 Some [certifications](https://github.com/netstart/certifications)
-
-
-
-
+- 🎓 I'm study every time and you cam see some [certifications](https://github.com/netstart/certifications)
 
 
 

@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claytonpassos/)](https://www.linkedin.com/in/claytonpassos/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codigorefinado)](https://twitter.com/codigorefinado)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/codigorefinado)](https://www.youtube.com/codigorefinado)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&=flat-square&logo=medium&logoColor=white&link=https://medium.com/codigorefinado)](https://www.youtube.com/codigorefinado)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&=flat-square&logo=medium&logoColor=white&link=https://medium.com/codigorefinado)](https://medium.com/codigorefinado)
 
 
 

@@ -3,9 +3,11 @@
 - 🔭 I’m currently working on problem resolutions using software to make world better 😄
 - 🎓 I'm study every time and you cam see some [certifications](https://github.com/netstart/certifications)
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=netstart&branding=false&badges=3&show-avatar=true&style=--border-radius:10px"
-/>
+
+    <img
+      src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=netstart&branding=false&badges=3&show-avatar=true&style=--border-radius:10px"
+    />
+[My CodersRank profile](https://profile.codersrank.io/user/netstart)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/claytonpassos/)](https://www.linkedin.com/in/claytonpassos/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codigorefinado)](https://twitter.com/codigorefinado)
